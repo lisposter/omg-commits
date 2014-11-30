@@ -11,9 +11,26 @@ OMG!! These commits!
 $ npm install omg-commits
 ```
 
-## Example
-
 ## Usage
+
+### server
+
+```sh
+$ npm i
+$ node --harmony srv.js
+```
+
+### cli
+
+```sh
+$ git add .
+$ omgcommit
+```
+
+## Should I use it?
+
+**NO!** You should never use this at work or something in public. **It's just for fun!**
+
 
 ## License
 
