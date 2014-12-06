@@ -23,7 +23,6 @@ $ node --harmony srv.js
 ### cli
 
 ```sh
-$ git add .
 $ omgcommit
 ```
 
