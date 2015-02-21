@@ -13,13 +13,6 @@ $ npm install omg-commits
 
 ## Usage
 
-### server
-
-```sh
-$ npm i
-$ node --harmony srv.js
-```
-
 ### cli
 
 ```sh
