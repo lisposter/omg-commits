@@ -16,8 +16,13 @@ $ npm install omg-commits
 ### cli
 
 ```sh
+$ git add .
 $ omgcommit
 ```
+
+## Example
+
+See this repo's commits history. :P
 
 ## Should I use it?
 

@@ -3,12 +3,10 @@
   "version": "0.1.0",
   "description": "OMG!! These commits!",
   "main": "index.js",
-  "bin" : {
+  "bin": {
     "omgcommit": "index.js"
   },
-  "dependencies": {
-    "request": "^2.51.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "istanbul": "^0.3.2",
     "mocha": "^1.21.5",
