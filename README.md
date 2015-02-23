@@ -3,6 +3,8 @@
 
 OMG!! These commits!
 
+**JUST A TOY, DO NOT USE IT AT WORK!!**
+
 ------
 
 ## Installation
