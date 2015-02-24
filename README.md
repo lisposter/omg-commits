@@ -13,8 +13,6 @@ OMG!! These commits!
 $ npm install omg-commits
 ```
 
-## Usage
-
 ### cli
 
 ```sh
