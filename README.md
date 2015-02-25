@@ -22,7 +22,7 @@ $ omgcommit
 
 ## Example
 
-See this repo's commits history. :P
+See this repo's commits [history](https://github.com/lisposter/omg-commits/commits/master). :P
 
 ## Should I use it?
 
