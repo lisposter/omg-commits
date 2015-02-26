@@ -8,9 +8,8 @@ http.get('http://whatthecommit.com/index.txt', function(res) {
   res.on('data', function(chunk) {
     var msg = chunk.toString().replace(/\n/, '');
     exec('git commit -m "' + msg + '"', function(err, stdout, stderr) {
-      // if (err) console.error(err);
+      if stderr console.log(stderr);
       console.log(stdout);
-      console.log(stderr);
     });
   })
 
