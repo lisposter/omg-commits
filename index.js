@@ -9,7 +9,7 @@ http.get('http://whatthecommit.com/index.txt', function(res) {
     var msg = chunk.toString().replace(/\n/, '');
     exec('git commit -m "' + msg + '"', function(err, stdout, stderr) {
       if (stderr) {
-        console.log(stderr.replace(/\n$/, ''));
+        console.error(stderr.replace(/\n$/, ''));
       }
       console.log(stdout.replace(/\n$/, ''));
     });
